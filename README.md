@@ -61,14 +61,14 @@ plt.imshow(BGR_image)
 ## Output
 
 ### Input image and grayscale image
-![input](cube3.png)
+![input](paris1.png)
 
 ### Canny Edge detector output
 
-![input](cube1.png)
+![input](paris2.png)
 ### Display the result of Hough transform
 
-![input](cube2.png)
+![input](paris3.png)
 
 ## Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 
